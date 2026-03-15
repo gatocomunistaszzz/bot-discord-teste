@@ -35,4 +35,4 @@ for (const file of eventFiles) {
   else            client.on(event.name,   (...a) => event.execute(...a, client));
 }
 
-client.login('MTQ4MjUzNTIxMzk4Mzg2Mjg3NA.GxoxEW.v3oXOn1l89HrZo13_aXtnwrJhUVuB9dJKXjmTg');
+client.login(process.env.TOKEN);;
