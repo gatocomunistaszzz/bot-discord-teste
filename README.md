@@ -1,6 +1,6 @@
-# Discord Bot — Estilo AtlasBot (Completo)
+# Discord Bot — 
 
-Bot completo em discord.js v14 com todas as funcionalidades do AtlasBot.
+Bot completo em discord.js.
 
 ## Instalação rápida
 
